@@ -1,2 +1,3 @@
-# Candy-Sploit
-Roblox Exploit
+# Candy-Sploit - Roblox Script Executor
+
+Executor by CandySploit Team
